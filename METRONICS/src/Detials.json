@@ -1,0 +1,23 @@
+{
+  "blogSubItems": [
+    "Sub-item 1",
+    "Sub-item 2",
+    "Sub-item 3",
+    "Sub-item 4",
+    "Sub-item 5"
+  ],
+  "dashboardSubItems": [
+    "Default",
+    "E-commerce",
+    "Project",
+    "Online Course",
+    "Marketing"
+  ],
+  "homeSubItems":[
+    "Default",
+    "E-commerce",
+    "Project",
+    "Online Course",
+    "Marketing"
+  ]
+}
