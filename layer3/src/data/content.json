@@ -1,0 +1,217 @@
+[
+  {
+    "id": "ga8D0000003rfcw",
+    "icon": "bi-gear-fill",
+    "title": "ADMISSIONS",
+    "sequence": "6",
+    "childrens": [
+      {
+        "icon": "bi-house-fill",
+        "id": "ga8D000000mioi8",
+        "title": "Admission Settings",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "icon": "bi-info-circle-fill",
+            "id": "ga8D000000ghj4t",
+            "title": "Admission Settings",
+            "url": "/v1/app/StudentAdmission",
+            "sequence": "1",
+            "child": []
+          },
+          {
+            "icon": "bi-phone-fill",
+            "id": "ga8D000000GJH43",
+            "title": "Applicant",
+            "url": "/v1/app/lv/Applicant?filtertitle=Recent",
+            "sequence": "2",
+            "child": []
+          },
+          {
+            "id": "ga8D0000008kmuf",
+            "icon": "bi-facebook",
+            "title": "Enquiry",
+            "url": "/v1/app/lv/Enquiry?filtertitle=Recent",
+            "sequence": "3",
+            "child": []
+          },
+          {
+            "id": "ga8D000000gyt55",
+            "icon": "bi-question-circle-fill",
+            "title": "Individual Application",
+            "url": "/v1/app/lv/IndividualApplication?filtertitle=Recent",
+            "sequence": "4",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ga8D000000qsdvw",
+    "icon": "bi-bug",
+    "title": "STUDENT",
+    "sequence": "7",
+    "childrens": [
+      {
+        "id": "ga8D000000ucawm",
+        "icon": "bi-question-circle-fill",
+        "title": "Student Managements",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "id": "ga8D000000756g4",
+            "icon": "bi-question-circle-fill",
+            "title": "Student",
+            "url": "/v1/app/lv/Student?filtertitle=Recent",
+            "sequence": "1",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ga8D000000ncdyr",
+    "icon": "bi-view-list",
+    "title": "STAFF",
+    "sequence": "8",
+    "childrens": [
+      {
+        "id": "ga8D000000zqjhe",
+        "icon": "bi-question-circle-fill",
+        "title": "Staff Managements",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "id": "ga8D000000hy562",
+            "icon": "bi-question-circle-fill",
+            "title": "Staff",
+            "url": "/v1/app/lv/Staff?filtertitle=Recent",
+            "sequence": "1",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ga8D0000003rfcw",
+    "icon": "bi-gear-fill",
+    "title": "ADMISSIONS",
+    "sequence": "6",
+    "childrens": [
+      {
+        "icon": "bi-house-fill",
+        "id": "ga8D000000mioi8",
+        "title": "Admission Settings",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "icon": "bi-info-circle-fill",
+            "id": "ga8D000000ghj4t",
+            "title": "Admission Settings",
+            "url": "/v1/app/StudentAdmission",
+            "sequence": "1",
+            "child": []
+          },
+          {
+            "icon": "bi-phone-fill",
+            "id": "ga8D000000GJH43",
+            "title": "Applicant",
+            "url": "/v1/app/lv/Applicant?filtertitle=Recent",
+            "sequence": "2",
+            "child": []
+          },
+          {
+            "id": "ga8D0000008kmuf",
+            "icon": "bi-facebook",
+            "title": "Enquiry",
+            "url": "/v1/app/lv/Enquiry?filtertitle=Recent",
+            "sequence": "3",
+            "child": []
+          },
+          {
+            "id": "ga8D000000gyt55",
+            "icon": "bi-question-circle-fill",
+            "title": "Individual Application",
+            "url": "/v1/app/lv/IndividualApplication?filtertitle=Recent",
+            "sequence": "4",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ga8D000000qsdvw",
+    "icon": "bi-bug",
+    "title": "STUDENT",
+    "sequence": "7",
+    "childrens": [
+      {
+        "id": "ga8D000000ucawm",
+        "icon": "bi-question-circle-fill",
+        "title": "Student Managements",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "id": "ga8D000000756g4",
+            "icon": "bi-question-circle-fill",
+            "title": "Student",
+            "url": "/v1/app/lv/Student?filtertitle=Recent",
+            "sequence": "1",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ga8D000000877yu",
+    "icon": "bi-question-circle-fill",
+    "title": "FRONT OFFICE",
+    "sequence": "9",
+    "childrens": [
+      {
+        "id": "ga8D00000076gvf",
+        "icon": "bi-question-circle-fill",
+        "title": "Postal Exchanges",
+        "sequence": "1",
+        "url": "",
+        "childrens": [
+          {
+            "id": "ga8D000000w24ed",
+            "icon": "bi-question-circle-fill",
+            "title": "Postal Record",
+            "url": "/v1/app/lv/PostalRecord?filtertitle=Recent",
+            "sequence": "1",
+            "child": []
+          }
+        ]
+      },
+      {
+        "id": "ga8D000000jghmm",
+        "icon": "bi-question-circle-fill",
+        "title": "Visitor Log",
+        "sequence": "2",
+        "url": "",
+        "childrens": [
+          {
+            "id": "ga8D000000vcsde",
+            "icon": "bi-question-circle-fill",
+            "title": "Visitor",
+            "url": "/v1/app/lv/Visitor?filtertitle=Recent",
+            "sequence": "1",
+            "child": []
+          }
+        ]
+      }
+    ]
+  }
+]
